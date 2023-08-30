@@ -1,0 +1,17 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Gouda",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^7.5.2",
+    "shopify": "^0.1.0",
+    "shopify-api-node": "^3.12.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
